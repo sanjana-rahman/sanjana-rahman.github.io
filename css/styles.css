@@ -1,0 +1,85 @@
+h2 {
+    color: darkslategray;
+    size: 3em;
+}
+
+.logo{
+    font-family: 'Squada One', cursive;
+    font-size: 28px;
+}
+
+.highlighter{
+    color: gold;
+}
+
+.navigation-bar{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.nav-element{
+    font-size: 24px;
+    font-family: 'Khand', sans-serif;
+}
+
+.navbar-nav > li{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.my-jumbotron{
+    text-size-adjust: true;
+    padding-top: 14%;
+    padding-left: 8%;
+    padding-right: 8%;
+
+    background-image: url("../img/mosaic-bg.jpg");
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.my-slogan{
+    font-family: 'Khand', cursive;
+    text-align: center;
+    color: darkslategray;
+}
+
+.my-subtitle{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    color: gray;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.my-button{
+    display: flex;
+    justify-content: center;
+    width: 140px;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-carousel-item{
+    width: 100%;
+    height: 93vh;
+}
+
+.my-table-info{
+    font-family: 'Khand', sans-serif;
+    font-size: 32px;
+    color: slategrey;
+    padding-top: 4%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.my-table{
+    align-self: auto;
+}
